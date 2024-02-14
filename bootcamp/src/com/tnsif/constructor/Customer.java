@@ -24,6 +24,7 @@ public class Customer {
 	}
 	@Override
 	public String toString() {
+		System.out.println("fdsf");
 		return "Customerdemo [name=" + name + ", address=" + address + ", cid=" + cid + "]";
 	}
 
